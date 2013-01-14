@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE outline PUBLIC "-//omnigroup.com//DTD OUTLINE 3.0//EN" "http://www.omnigroup.com/namespace/OmniOutliner/xmloutline-v3.dtd">
+<outline xmlns="http://www.omnigroup.com/namespace/OmniOutliner/v3">
+  <style-attribute-registry>
+    <style-attribute version="0" key="font-family" group="font" name="family" class="string">Helvetica</style-attribute>
+    <style-attribute version="1" key="font-fill" group="font" name="fill color" class="color">
+      <color w="0"/>
+    </style-attribute>
+    <style-attribute version="0" key="font-size" group="font" name="size" class="number">12</style-attribute>
+    <style-attribute version="0" key="font-weight" group="font" name="weight" class="number">5</style-attribute>
+    <style-attribute version="0" key="text-background-color" group="text" name="background color" class="color">
+      <color w="0" a="0"/>
+    </style-attribute>
+  </style-attribute-registry>
+  <named-styles>
+    <named-style id="n_Pe4j-wTmH" name="Heading 1" display-order="0">
+      <style>
+        <value key="font-fill">
+          <color r="0.710037" g="0.532528" b="0"/>
+        </value>
+        <value key="font-size">32</value>
+      </style>
+    </named-style>
+    <named-style id="a0st9oz2FO1" name="Orange" display-order="5">
+      <style>
+        <value key="font-fill">
+          <color r="0.802974" g="0.302721" b="0.0883271"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="jBtVNldF-aM" name="Heading 2" display-order="1">
+      <style>
+        <inherited-style name="Orange" idref="a0st9oz2FO1"/>
+        <value key="font-size">16</value>
+      </style>
+    </named-style>
+    <named-style id="pEuyXj84FqX" name="Emphasis" display-order="2">
+      <style>
+        <value key="font-fill">
+          <color r="0.348945" g="0.437578" b="0.464684"/>
+        </value>
+        <value key="font-weight">9</value>
+      </style>
+    </named-style>
+    <named-style id="oNjvfB6_IzG" name="Highlight" display-order="3">
+      <style>
+        <value key="text-background-color">
+          <color r="0.929368" g="0.902012" b="0.825721"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="jmMHkfmYZ1M" name="Yellow" display-order="4">
+      <style>
+        <value key="font-fill">
+          <color r="0.710037" g="0.532528" b="0"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="n7Lfd4MM7uE" name="Red" display-order="6">
+      <style>
+        <value key="font-fill">
+          <color r="0.855019" g="0.196205" b="0.181175"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="aeYpF7M08yK" name="Magenta" display-order="7">
+      <style>
+        <value key="font-fill">
+          <color r="0.825279" g="0.214757" b="0.514342"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="fyki-wDjq0-" name="Violet" display-order="8">
+      <style>
+        <value key="font-fill">
+          <color r="0.422548" g="0.440798" b="0.773234"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="hAkuUjwYLH4" name="Blue" display-order="9">
+      <style>
+        <value key="font-fill">
+          <color r="0.149652" g="0.544306" b="0.821561"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="eF5w5ahSfcU" name="Cyan" display-order="10">
+      <style>
+        <value key="font-fill">
+          <color r="0.166803" g="0.63197" b="0.595656"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="kH8JuFLRG40" name="Green" display-order="11">
+      <style>
+        <value key="font-fill">
+          <color r="0.519396" g="0.60223" b="0"/>
+        </value>
+      </style>
+    </named-style>
+  </named-styles>
+  <settings>
+    <base-style>
+      <style>
+        <value key="font-family">Gill Sans</value>
+        <value key="font-fill">
+          <color r="0.389049" g="0.475686" b="0.505576"/>
+        </value>
+        <value key="text-background-color">
+          <color r="0.98513" g="0.959032" b="0.886251"/>
+        </value>
+      </style>
+    </base-style>
+    <page-adornment>
+      <first-page-headers is-active="yes">
+        <header location="center">
+          <text>
+            <p>
+              <run>
+                <lit><cell variable="OOSectionTitleVariableIdentifier"/></lit>
+              </run>
+            </p>
+          </text>
+        </header>
+      </first-page-headers>
+    </page-adornment>
+    <print-info>
+      <print-info-key name="OOScaleDocumentToFitPageWidth" type="boolean">true</print-info-key>
+    </print-info>
+    <auto-generate-level-styles>no</auto-generate-level-styles>
+  </settings>
+  <editor content-size="{699, 764}" column-titles-display-mode="auto" status-visible="no" hide-attachment-tags="yes">
+    <drawer display="sections" palette-height="370"/>
+    <selected-rows ids="gk3lC1y2rmu"/>
+    <selected-columns ids="jFqHUGd_Dg1"/>
+    <selected-characters range="{0, 0}"/>
+  </editor>
+  <columns>
+    <column id="dTpN3JwYpBn" type="text" width="18" minimum-width="18" maximum-width="18" text-export-width="1" is-note-column="yes">
+      <style>
+        <value key="font-fill">
+          <color r="0.575586" g="0.63197" b="0.63197"/>
+        </value>
+      </style>
+      <title>
+        <text>
+          <p/>
+        </text>
+      </title>
+    </column>
+    <column id="jFqHUGd_Dg1" type="text" width="678" minimum-width="13" maximum-width="1000000" text-export-width="72" is-outline-column="yes">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Topic</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+    </column>
+  </columns>
+  <root>
+    <style/>
+    <style>
+      <inherited-style name="Yellow" idref="jmMHkfmYZ1M"/>
+      <value key="font-size">32</value>
+    </style>
+    <style>
+      <inherited-style name="Orange" idref="a0st9oz2FO1"/>
+      <value key="font-size">16</value>
+    </style>
+    <item id="gk3lC1y2rmu">
+      <values>
+        <null/>
+      </values>
+    </item>
+  </root>
+</outline>

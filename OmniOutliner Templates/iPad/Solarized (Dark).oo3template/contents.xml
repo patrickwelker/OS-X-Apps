@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE outline PUBLIC "-//omnigroup.com//DTD OUTLINE 3.0//EN" "http://www.omnigroup.com/namespace/OmniOutliner/xmloutline-v3.dtd">
+<outline xmlns="http://www.omnigroup.com/namespace/OmniOutliner/v3">
+  <style-attribute-registry>
+    <style-attribute version="0" key="font-family" group="font" name="family" class="string">Helvetica</style-attribute>
+    <style-attribute version="1" key="font-fill" group="font" name="fill color" class="color">
+      <color w="0"/>
+    </style-attribute>
+    <style-attribute version="0" key="font-size" group="font" name="size" class="number">12</style-attribute>
+    <style-attribute version="0" key="font-weight" group="font" name="weight" class="number">5</style-attribute>
+    <style-attribute version="0" key="text-background-color" group="text" name="background color" class="color">
+      <color w="0" a="0"/>
+    </style-attribute>
+  </style-attribute-registry>
+  <named-styles>
+    <named-style id="n_Pe4j-wTmH" name="Heading 1" display-order="0">
+      <style>
+        <value key="font-family">Gill Sans</value>
+        <value key="font-fill">
+          <color r="0.149652" g="0.544306" b="0.821561"/>
+        </value>
+        <value key="font-size">32</value>
+        <value key="text-background-color">
+          <color r="0" g="0.1645" b="0.21"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="jBtVNldF-aM" name="Heading 2" display-order="1">
+      <style>
+        <value key="font-fill">
+          <color r="0.422548" g="0.440798" b="0.773234"/>
+        </value>
+        <value key="font-size">16</value>
+      </style>
+    </named-style>
+    <named-style id="pEuyXj84FqX" name="Emphasis" display-order="2">
+      <style>
+        <value key="font-fill">
+          <color r="0.5733" g="0.63" b="0.63"/>
+        </value>
+        <value key="font-weight">9</value>
+      </style>
+    </named-style>
+    <named-style id="oNjvfB6_IzG" name="Highlight" display-order="3">
+      <style>
+        <value key="text-background-color">
+          <color r="0.026" g="0.2132" b="0.26"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="jmMHkfmYZ1M" name="Yellow" display-order="4">
+      <style>
+        <value key="font-fill">
+          <color r="0.710037" g="0.532528" b="0"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="a0st9oz2FO1" name="Orange" display-order="5">
+      <style>
+        <value key="font-fill">
+          <color r="0.802974" g="0.302721" b="0.0883271"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="n7Lfd4MM7uE" name="Red" display-order="6">
+      <style>
+        <value key="font-fill">
+          <color r="0.855019" g="0.196205" b="0.181175"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="aeYpF7M08yK" name="Magenta" display-order="7">
+      <style>
+        <value key="font-fill">
+          <color r="0.825279" g="0.214757" b="0.514342"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="fyki-wDjq0-" name="Violet" display-order="8">
+      <style>
+        <value key="font-fill">
+          <color r="0.422548" g="0.440798" b="0.773234"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="hAkuUjwYLH4" name="Blue" display-order="9">
+      <style>
+        <value key="font-fill">
+          <color r="0.149652" g="0.544306" b="0.821561"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="eF5w5ahSfcU" name="Cyan" display-order="10">
+      <style>
+        <value key="font-fill">
+          <color r="0.166803" g="0.63197" b="0.595656"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="kH8JuFLRG40" name="Green" display-order="11">
+      <style>
+        <value key="font-fill">
+          <color r="0.519396" g="0.60223" b="0"/>
+        </value>
+      </style>
+    </named-style>
+  </named-styles>
+  <settings>
+    <base-style>
+      <style>
+        <value key="font-family">Gill Sans</value>
+        <value key="font-fill">
+          <color r="0.5133" g="0.58233" b="0.59"/>
+        </value>
+        <value key="text-background-color">
+          <color r="0" g="0.1645" b="0.21"/>
+        </value>
+      </style>
+    </base-style>
+    <page-adornment>
+      <first-page-headers is-active="yes">
+        <header location="center">
+          <text>
+            <p>
+              <run>
+                <lit><cell variable="OOSectionTitleVariableIdentifier"/></lit>
+              </run>
+            </p>
+          </text>
+        </header>
+      </first-page-headers>
+    </page-adornment>
+    <print-info>
+      <print-info-key name="OOScaleDocumentToFitPageWidth" type="boolean">true</print-info-key>
+    </print-info>
+  </settings>
+  <editor content-size="{700, 1152}" column-titles-display-mode="auto" status-visible="no" hide-attachment-tags="yes">
+    <drawer display="sections" palette-height="370"/>
+  </editor>
+  <columns>
+    <column id="dTpN3JwYpBn" type="text" width="18" minimum-width="18" maximum-width="18" text-export-width="1" is-note-column="yes">
+      <style>
+        <value key="font-fill">
+          <color r="0.345" g="0.433167" b="0.46"/>
+        </value>
+      </style>
+      <title>
+        <text>
+          <p/>
+        </text>
+      </title>
+    </column>
+    <column id="jFqHUGd_Dg1" type="text" width="679" minimum-width="13" maximum-width="1000000" text-export-width="72" is-outline-column="yes">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Topic</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+    </column>
+  </columns>
+  <root>
+    <style/>
+    <style>
+      <inherited-style name="Heading 2" idref="jBtVNldF-aM"/>
+      <inherited-style name="Heading 1" idref="n_Pe4j-wTmH"/>
+    </style>
+    <style>
+      <inherited-style name="Heading 2" idref="jBtVNldF-aM"/>
+      <value key="font-family">Helvetica</value>
+      <value key="text-background-color">
+        <color w="0" a="0"/>
+      </value>
+    </style>
+  </root>
+</outline>

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE outline PUBLIC "-//omnigroup.com//DTD OUTLINE 3.0//EN" "http://www.omnigroup.com/namespace/OmniOutliner/xmloutline-v3.dtd">
+<outline xmlns="http://www.omnigroup.com/namespace/OmniOutliner/v3">
+  <style-attribute-registry>
+    <style-attribute version="0" key="font-family" group="font" name="family" class="string">Helvetica</style-attribute>
+    <style-attribute version="1" key="font-fill" group="font" name="fill color" class="color">
+      <color w="0"/>
+    </style-attribute>
+    <style-attribute version="0" key="font-size" group="font" name="size" class="number">12</style-attribute>
+    <style-attribute version="0" key="paragraph-alignment" group="paragraph" name="alignment" class="enum">
+      <enum-name-table default-value="4">
+        <enum-name-table-element value="0" name="left"/>
+        <enum-name-table-element value="1" name="right"/>
+        <enum-name-table-element value="2" name="center"/>
+        <enum-name-table-element value="3" name="justified"/>
+        <enum-name-table-element value="4" name="natural"/>
+      </enum-name-table>
+    </style-attribute>
+    <style-attribute version="0" key="text-background-color" group="text" name="background color" class="color">
+      <color w="0" a="0"/>
+    </style-attribute>
+  </style-attribute-registry>
+  <named-styles>
+    <named-style id="oNjvfB6_IzG" name="Highlight: Yellow" display-order="0">
+      <style>
+        <value key="text-background-color">
+          <color r="0.984314" g="0.930737" b="0.446418"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="b6tDrb0AwJy" name="Highlight: Green" display-order="1">
+      <style>
+        <value key="text-background-color">
+          <color r="0.578571" g="0.899628" b="0.742747"/>
+        </value>
+      </style>
+    </named-style>
+    <named-style id="c-0ZZhpc65_" name="Highlight: Pink" display-order="2">
+      <style>
+        <value key="text-background-color">
+          <color r="1" g="0.64684" b="0.64684"/>
+        </value>
+      </style>
+    </named-style>
+  </named-styles>
+  <settings>
+    <base-style>
+      <style>
+        <value key="font-family">Helvetica Neue</value>
+        <value key="text-background-color">
+          <color r="1" g="1" b="1"/>
+        </value>
+      </style>
+    </base-style>
+    <alternate-color>
+      <color r="0.96" g="0.96" b="0.96"/>
+    </alternate-color>
+    <page-adornment>
+      <first-page-headers is-active="yes">
+        <header location="center">
+          <text>
+            <p>
+              <run>
+                <lit><cell variable="OOSectionTitleVariableIdentifier"/></lit>
+              </run>
+            </p>
+          </text>
+        </header>
+      </first-page-headers>
+    </page-adornment>
+    <print-info>
+      <print-info-key name="OOScaleDocumentToFitPageWidth" type="boolean">true</print-info-key>
+    </print-info>
+    <auto-generate-level-styles>no</auto-generate-level-styles>
+  </settings>
+  <editor content-size="{699, 764}" column-titles-display-mode="auto" status-visible="no">
+    <drawer display="sections" palette-height="275"/>
+    <selected-rows ids="geKBxGhvtvD"/>
+    <selected-columns ids="o5eeyy-hK-h"/>
+    <selected-characters range="{4, 0}"/>
+  </editor>
+  <columns>
+    <column id="dTpN3JwYpBn" type="text" width="18" minimum-width="18" maximum-width="18" text-export-width="1" is-note-column="yes">
+      <style>
+        <value key="font-fill">
+          <color r="0.494118" g="0.494118" b="0.494118"/>
+        </value>
+        <value key="font-size">10</value>
+      </style>
+      <title>
+        <text>
+          <p/>
+        </text>
+      </title>
+    </column>
+    <column id="jFqHUGd_Dg1" type="text" width="380" minimum-width="13" maximum-width="1000000" text-export-width="72" is-outline-column="yes">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Title</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+    </column>
+    <column id="dJLGvv673ZZ" type="text" width="198" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Author</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+    </column>
+    <column id="o5eeyy-hK-h" type="number" width="66" minimum-width="13" maximum-width="1000000" text-export-width="40" sort="ascending">
+      <style>
+        <value key="paragraph-alignment">right</value>
+      </style>
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Year</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <formatter type="number">0;0;-0</formatter>
+    </column>
+    <column id="laMgm4dliSl" type="enumeration" width="209" minimum-width="20" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Origin</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <enumeration>
+        <member id="dAXMbU0EswK">
+          <text>
+            <p>
+              <run>
+                <lit>United States</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+        <member id="c0ew2rMH-6m">
+          <text>
+            <p>
+              <run>
+                <lit>England</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+        <member id="pd4-NNlGbYu">
+          <text>
+            <p>
+              <run>
+                <lit>France</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+        <member id="mqD5M-AB0KS">
+          <text>
+            <p>
+              <run>
+                <lit>Ireland</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+        <member id="kb4B9i-vnpg">
+          <text>
+            <p>
+              <run>
+                <lit>日本</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+        <member id="lMTVP4Zi4p6">
+          <text>
+            <p>
+              <run>
+                <lit>Čechy</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+        <member id="nfdRhXPyjVZ">
+          <text>
+            <p>
+              <run>
+                <lit>中國</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+        <member id="moIWzbXcXbB">
+          <text>
+            <p>
+              <run>
+                <lit>Российская Империя</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+        <member id="pM4MPKZID4m">
+          <text>
+            <p>
+              <run>
+                <lit>Deutschland</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+        <member id="ffnCZPNFQBW">
+          <text>
+            <p>
+              <run>
+                <lit>España</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+        <member id="mMVHEugHNDl">
+          <text>
+            <p>
+              <run>
+                <lit>Schweiz</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+      </enumeration>
+    </column>
+    <column id="jZ6DY_o4TqC" type="checkbox" width="71" minimum-width="13" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>Read</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+    </column>
+    <column id="dUmwx0GAgMv" type="enumeration" width="110" minimum-width="20" maximum-width="1000000" text-export-width="40">
+      <title>
+        <text>
+          <p>
+            <run>
+              <lit>My Rating</lit>
+            </run>
+          </p>
+        </text>
+      </title>
+      <enumeration>
+        <member id="kAoxAPpBoe6">
+          <text>
+            <p>
+              <run>
+                <lit>★☆☆☆☆</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+        <member id="clfP2DGC2ko">
+          <text>
+            <p>
+              <run>
+                <lit>★★☆☆☆</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+        <member id="dHPZXhycBFA">
+          <text>
+            <p>
+              <run>
+                <lit>★★★☆☆</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+        <member id="n4xQKBBtb6a">
+          <text>
+            <p>
+              <run>
+                <lit>★★★★☆</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+        <member id="ahujnyIaI6R">
+          <text>
+            <p>
+              <run>
+                <lit>★★★★★</lit>
+              </run>
+            </p>
+          </text>
+        </member>
+      </enumeration>
+    </column>
+  </columns>
+  <root>
+    <item id="geKBxGhvtvD">
+      <values>
+        <text>
+          <p>
+            <run>
+              <lit>Ottmar</lit>
+            </run>
+          </p>
+        </text>
+        <text>
+          <p>
+            <run>
+              <lit>asdasd</lit>
+            </run>
+          </p>
+        </text>
+        <number>1113</number>
+        <enum idref="c0ew2rMH-6m">England</enum>
+        <checkbox>checked</checkbox>
+        <enum idref="ahujnyIaI6R">★★★★★</enum>
+      </values>
+      <note expanded="yes">
+        <text>
+          <p>
+            <run>
+              <lit>asdasd</lit>
+            </run>
+          </p>
+        </text>
+      </note>
+    </item>
+  </root>
+</outline>
