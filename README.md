@@ -1,8 +1,29 @@
 # OS X Applications
 
-Repository with tweaks, scripts, mods, themes, templates, … for **great** OS X Apps.
+Repository with tweaks, scripts, mods, themes, templates and more for **great** OS X Apps.
 
-## OmniOutliner Templates
+## [Hazel Image Rules](http://rocketink.net/2013/02/screenshots-and-image-manipulation.html)
+
+A basic set of rules to…
+
+- align images horizontally/vertically
+- resize images
+- resize and align images horizontally/vertically
+- and optimize PNG images (lossless and lossy)
+
+Read to blog post to see what dependencies come with this setup or download it and tweak the rules until the work for you.
+
+This setup relies heavily on [ImageMagick](http://www.imagemagick.org/) but for most things you can also use Automator as an alternative.
+
+Teaser → the best part is the lossy compression of PNG images - it's shrinktastic:
+
+1. Run **ImageMagick** "mogrify" to resize larger images.
+2. Run **pngquant** for lossy compression.
+3. Run **pngcrush**, **pngout**, **optipng** and **advpng** to mimik ImageOptim image compressing behavior.
+
+**Click the title to read the blog post which explains what this set of rules does in detail.**
+
+## [OmniOutliner Templates](http://rocketink.net/2013/01/omnioutliner-templates.html)
 
 ### Sample Files From The iPad Version
 
